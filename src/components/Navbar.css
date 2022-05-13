@@ -1,0 +1,68 @@
+.navbar {
+    color: white;
+    float: right;
+    margin-top: -120vh;
+}
+
+::placeholder {
+    color: white;
+    cursor: pointer;
+    padding-left: 40px;
+}
+
+input.inputsearch {
+    background-color: grey;
+    color: white;
+    height: 36px;
+    width: 210px;
+    border-radius: 0px;
+    border: 0;
+    margin-right: 150px;
+    /* left: 1048px;
+top: 32px;
+border-radius: 0px; */
+}
+
+/* .search{
+    z-index: inherit;
+    margin-left: -50px;
+} */
+#search {
+    margin-right: 0px;
+    /* z-index: 6; */
+    margin-top: -30px;
+}
+
+.mainimage {
+    height: 274px;
+    width: 434px;
+    padding-top: 204.5px;
+    padding-right: 10px;
+}
+
+.headings {
+    color: royalblue;
+    font-weight: bolder;
+    font-size: 30px;
+    text-decoration-line: underline;
+    padding-left: 50px;
+    margin-top: -10px;
+}
+
+.subhead1 {
+    color: white;
+    width: 386px;
+    height: 58px;
+    margin-top: 10px;
+    font-size: 18px;
+    padding-left: 90px;
+}
+.button3{
+    width: 162px;
+    height: 50px;
+    color: white;
+    background-color: transparent;
+    border-color: white;
+    border-width: 3px;
+   margin-left: 270px;
+}
